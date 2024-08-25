@@ -1,6 +1,6 @@
 🌟 **Just Completed My First Java Project!** 🌟
 
- I'm excited to share that I've just wrapped up my first project in Java—a Quiz Application! 🎉
+ I'm excited to share that I've just wrapped up my first project in Java Quiz Application! 🎉
 
 🔧 **𝗪𝗵𝗮𝘁 𝗜 𝗕𝘂𝗶𝗹𝘁:**
 
