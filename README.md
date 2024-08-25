@@ -26,5 +26,14 @@
 
   - I’m excited to continue exploring Java and further my skills in software development.
 
+**Run the application**
+
+  - Install JDK and setup for Java.
+    
+  - Clone the project
+    
+  - If any changes to be done do it and Click crtl + shift + B to build the project.
+    
+  - Then click the run button the top right corner of the VSCode.
 
     <img width="959" alt="image" src="https://github.com/user-attachments/assets/09fed4a0-369e-43a5-a653-72b71be8981f">
