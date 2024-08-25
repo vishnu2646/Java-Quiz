@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "What is Best Coding Language?",
+        "options": [
+            {"id": 1, "option": "C", "isSelected": false},
+            {"id": 2, "option": "C++", "isSelected": false},
+            {"id": 3, "option": "Java", "isSelected": false},
+            {"id": 4, "option": "Python", "isSelected": false}
+        ],
+        "answer": "Java"
+    },
+    {
+        "id": 2,
+        "question": "Method overloading is done during",
+        "options": [
+            {"id": 1, "option": "Runtime", "isSelected": false},
+            {"id": 2, "option": "Dynamic Bindings", "isSelected": false},
+            {"id": 3, "option": "Program Compilation", "isSelected": false},
+            {"id": 4, "option": "Late Binding", "isSelected": false}
+        ],
+        "answer": "Program Compilation"
+    },
+    {
+        "id": 3,
+        "question": "Ad hoc Polymorphism is",
+        "options": [
+            {"id": 1, "option": "Method OverLoading", "isSelected": false},
+            {"id": 2, "option": "Method Overriding", "isSelected": false},
+            {"id": 3, "option": "SubClassing Ploymorphism", "isSelected": false},
+            {"id": 4, "option": "Dynamic Binding", "isSelected": false}
+        ],
+        "answer": "Method OverLoading"
+    },
+    {
+        "id": 4,
+        "question": "At run-time, a Java program is nothing more than objects 'talking' to",
+        "options": [
+            { "id": 1, "option": "Other objects", "isSelected": false},
+            { "id": 2, "option": "Other Classes", "isSelected": false},
+            { "id": 3, "option": "Other methods", "isSelected": false},
+            { "id": 4, "option": "Other binders", "isSelected": false}
+        ],
+        "answer": "Other objects"
+    },
+    {
+        "id": 5,
+        "question": "The relation between the Car and Owner or BankAccount and Customer is an example of",
+        "options": [
+            { "id": 1, "option": "Aggregation", "isSelected": false },
+            { "id": 2, "option": "Composition", "isSelected": false },
+            { "id": 3, "option": "Association", "isSelected": false },
+            { "id": 4, "option": "None", "isSelected": false }
+        ],
+        "answer": "Association"
+    }
+]
